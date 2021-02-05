@@ -61,6 +61,7 @@ abbr {
 .intro { 
 	min-width: 470px;
 	width: 100%;
+	color: blue;
 	}
 
 header h1 { 
@@ -102,11 +103,13 @@ header {
 .summary p {
 	font: italic 1.1em/2.2 georgia; 
 	text-align: center;
+	color: green;
 	}
 
 .preamble {
 	clear: right; 
 	padding: 0px 10px 0 10px;
+	color: purple;
 	}
 .supporting {	
 	padding-left: 10px; 
